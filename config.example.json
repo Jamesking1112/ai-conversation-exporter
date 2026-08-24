@@ -1,0 +1,12 @@
+{
+  "deepseek": {
+    "authorization": "Bearer 在这里粘贴完整 Authorization 值",
+    "cookie": "在这里粘贴完整 Cookie 字符串"
+  },
+  "request": {
+    "timeout_seconds": 30,
+    "max_retries": 3,
+    "retry_base_delay_seconds": 1
+  },
+  "output_dir": "output"
+}
